@@ -17,8 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## What is Pocket Diagnoser?
 
-To diagnose chronic diseases early in order to improve survival and efficiency of 
-treatment, I developed Intelligent Diagnosis. The application is equipped with multiple 
+This application is developed in an attempt to diagnose chronic diseases early in order to improve survival and efficiency of 
+treatment. The application is equipped with multiple 
 Machine Learning models for:
 - Accurate, Quick and Early diagnosis of Breast Cancer, Heart Attack and Heart 
 Failure using information regarding their lifestyle and the levels of a few hormones 
