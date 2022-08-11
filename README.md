@@ -15,7 +15,24 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# POCKET DIAGNOSER
+## What is Pocket Diagnoser?
+
+To diagnose chronic diseases early in order to improve survival and efficiency of 
+treatment, I developed Intelligent Diagnosis. The application is equipped with multiple 
+Machine Learning models for:
+● Accurate, Quick and Early diagnosis of Breast Cancer, Heart Attack and Heart 
+Failure using information regarding their lifestyle and the levels of a few hormones 
+in their body from blood tests. Using this information, these diseases can be 
+diagnosed even before the person starts showing symptoms thus preventing any 
+damage being inflicted onto the person.
+● Also, diagnosing Breast cancer, Brain Tumor and Dementia using Mammogram and 
+Brain MRI Scan. The models are trained to be able to diagnose the diseases even in 
+their early stages which can be overlooked many a times while manually diagnosing 
+the scans.
+● These models are aimed at Diagnosing diseases at early stages before the 
+appearance of symptoms, reducing the errors that occur during diagnosis and also 
+to minimize the number of false negative results.
+
 
 ## Using the Application
 
